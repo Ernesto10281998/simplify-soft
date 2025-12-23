@@ -1,4 +1,5 @@
-# simplify-soft Sistema Punto de Venta con Pedidos Web
+#  Simplify-Soft 
+# Sistema Punto de Venta con Pedidos Web
 
 Sistema de Punto de Venta (POS) con integración de pedidos web,
 facturación, control de inventarios y conexión con impresoras térmicas Bluetooth.
