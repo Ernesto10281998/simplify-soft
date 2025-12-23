@@ -30,9 +30,9 @@ Simplify Soft desarrolla soluciones de software que simplifican la gestión empr
 
 Este software fue desarrollado por:
 
-- **Fernando Salado** – Desarrollo backend y lógica del sistema
+- **Ernesto Gaytán** – Arquitectura del sistema, desarrollo backend y base de datos
+- **Fernando Salado** – Lógica del sistema y pruebas UX
 - **Eli Sarahi** – Desarrollo frontend y experiencia de usuario
-- **Ernesto Gaytán** – Arquitectura del sistema y base de datos
 - **Samuel** – Integraciones y módulos operativos
 - **Paulo Dávila** – Soporte técnico y pruebas del sistema
 
